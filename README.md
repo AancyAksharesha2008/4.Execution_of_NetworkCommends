@@ -93,7 +93,6 @@ while True:
     print(result)
 
 client.close()
-```
 
 
 
