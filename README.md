@@ -101,4 +101,4 @@ client.close()
 <img width="1535" height="923" alt="Output 4" src="https://github.com/user-attachments/assets/72778db9-4e2b-4555-b956-b145e924b551" />
 <img width="1613" height="336" alt="Output 5" src="https://github.com/user-attachments/assets/81aa4e49-47b3-449f-b8fb-2785e653b4f0" />
 ## Result
-Thus Execution of Network commands Performed 
+Thus Execution of Network commands Performed.
