@@ -28,6 +28,7 @@ This commands includes
 ## PROGRAM
 
 Server.py
+```
 import socket
 import os
 
@@ -61,7 +62,9 @@ while True:
 
 conn.close()
 server.close()
+```
 Client.py
+```
 import socket
 
 client = socket.socket()
@@ -89,9 +92,8 @@ while True:
 
     print("\nOutput:\n")
     print(result)
-
-
 client.close()
+```
 ## Output
 <img width="1601" height="788" alt="Output 1" src="https://github.com/user-attachments/assets/8113ce58-f507-479b-b452-46b1bd2a2de5" />
 <img width="1608" height="875" alt="Output 2" src="https://github.com/user-attachments/assets/caaa382d-7050-45c6-9c04-2a266a4f893a" />
