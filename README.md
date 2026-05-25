@@ -28,7 +28,6 @@ This commands includes
 ## PROGRAM
 
 Server.py
-```
 import socket
 import os
 
@@ -62,9 +61,7 @@ while True:
 
 conn.close()
 server.close()
-```
 Client.py
-```
 import socket
 
 client = socket.socket()
@@ -95,14 +92,11 @@ while True:
 
 
 client.close()
-```
-
 ## Output
 <img width="1601" height="788" alt="Output 1" src="https://github.com/user-attachments/assets/8113ce58-f507-479b-b452-46b1bd2a2de5" />
 <img width="1608" height="875" alt="Output 2" src="https://github.com/user-attachments/assets/caaa382d-7050-45c6-9c04-2a266a4f893a" />
 <img width="1449" height="679" alt="Output 3" src="https://github.com/user-attachments/assets/43ce2184-d626-4c18-b01e-8444e6a8c78c" />
 <img width="1535" height="923" alt="Output 4" src="https://github.com/user-attachments/assets/72778db9-4e2b-4555-b956-b145e924b551" />
 <img width="1613" height="336" alt="Output 5" src="https://github.com/user-attachments/assets/81aa4e49-47b3-449f-b8fb-2785e653b4f0" />
-
 ## Result
 Thus Execution of Network commands Performed 
